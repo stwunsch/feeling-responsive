@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image: logo_full-plus-text-hor.png
+  image: logo_full-plus-text-hor_512.png
   background-color: "#316197"
 widget1:
   title: "Getting started"
@@ -22,6 +22,11 @@ widget3:
   title: "Forum"
   url: 'http://domain.de/must-be-absolut-url-like-this-one/'
   image: 'https://d35c7d8c.web.cern.ch/sites/d35c7d8c.web.cern.ch/files/styles/home_button/public/imageblock/PH-ROOT-icons-5.png'
+  text: ''
+widget4:
+  title: "Gallery"
+  url: 'http://domain.de/must-be-absolut-url-like-this-one/'
+  image: 'https://d35c7d8c.web.cern.ch/sites/d35c7d8c.web.cern.ch/files/styles/home_button/public/imageblock/PH-ROOT-icons-9.png'
   text: ''
 #
 # Use the call for action to show a button on the frontpage

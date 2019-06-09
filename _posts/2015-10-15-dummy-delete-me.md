@@ -3,9 +3,9 @@ layout: page
 #
 # Content
 #
-subheadline: "Dummy"
-title: "You can delete this file"
-teaser: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+subheadline: "PyRDF"
+title: "Full Totem Analysis based on RDataFrame and distributed on a big Spark cluster with PyRDF!"
+teaser: "Milosz Blaszkiewicz and Aleksandra Mnich (AGH University of Science and Technology - Poland) wanted to evaluate a set of Big Data tools for the analysis of the data from the TOTEM experiment which will enable interactive or semi-interactive work with large amounts of data."
 categories:
   - dummy
 tags:
@@ -16,7 +16,7 @@ tags:
 image:
   header: ""
   thumb: "you-can-delete-me-thumb.png"
-  homepage: "you-can-delete-me-homepage.png"
+  homepage: "big_story_1.png"
   caption: "Caption?"
   url: "http://phlow.de/"
 ---
