@@ -110,9 +110,9 @@
 
 {% elsif page.header.background-color %}
 
-<div id="masthead-with-background-color" style="background: {{ page.header.background-color }};">
+<div id="masthead-with-background-color" style="background: {{ page.header.background-color }}; padding-top: 0px; padding-bottom: 0px;">
 	<div class="row">
-		<figure class="small-12 columns">
+		<figure class="small-12 columns" style="width: 50%; padding: 20px;">
 			<img src="{{ site.urlimg }}/{{ page.header.image }}" alt="{{ site.title }}">
 		</figure><!-- /.small-12.columns -->
 	</div><!-- /.row -->
