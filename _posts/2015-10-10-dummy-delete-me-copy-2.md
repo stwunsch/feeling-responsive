@@ -3,9 +3,9 @@ layout: page
 #
 # Content
 #
-subheadline: "Dummy"
-title: "You can delete this file"
-teaser: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+subheadline: "Conference"
+title: "ROOT Users' Workshop 2018"
+teaser: "The ROOT team would like to invite you to the 11th ROOT Users' Workshop."
 categories:
   - dummy
 tags:

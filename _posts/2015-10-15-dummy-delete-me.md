@@ -14,11 +14,11 @@ tags:
 # Styling
 #
 image:
-  header: ""
-  thumb: "you-can-delete-me-thumb.png"
+#  header: ""
+#  thumb: "you-can-delete-me-thumb.png"
   homepage: "big_story_1.png"
-  caption: "Caption?"
-  url: "http://phlow.de/"
+#  caption: "Caption?"
+#  url: "http://phlow.de/"
 ---
 
 
