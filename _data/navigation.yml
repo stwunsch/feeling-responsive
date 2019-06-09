@@ -5,7 +5,29 @@
   url: "/"
   side: left
 
-- title: "Dropdown Menu"
+- title: "Get ROOT"
+  url: "#"
+  side: left
+  dropdown:
+  - title: "Dropdown Menu 1"
+    url: "#"
+  - title: "Dropdown Menu 2"
+    url: "#"
+  - title: "Dropdown Menu 3"
+    url: "#"
+
+- title: "Documentation"
+  url: "#"
+  side: left
+  dropdown:
+  - title: "Dropdown Menu 1"
+    url: "#"
+  - title: "Dropdown Menu 2"
+    url: "#"
+  - title: "Dropdown Menu 3"
+    url: "#"
+
+- title: "Contribute"
   url: "#"
   side: left
   dropdown:
@@ -34,6 +56,6 @@
   url: "/search/"
   side: right
 
-- title: "Contact"
-  url: "/contact/"
-  side: right
+  #- title: "Contact"
+  #url: "/contact/"
+  #side: right
