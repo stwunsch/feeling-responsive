@@ -10,23 +10,23 @@ header:
   background-color: "#316197"
 widget1:
   title: "Getting started"
-  url: 'http://domain.de/must-be-absolut-url-like-this-one/'
-  image: 'https://d35c7d8c.web.cern.ch/sites/d35c7d8c.web.cern.ch/files/styles/home_button/public/imageblock/PH-ROOT-icons-4.png'
+  url: 'https://stwunsch.github.io/feeling-responsive/getting-started'
+  image: '/images/PH-ROOT-icons-4.png'
   text: ''
 widget2:
   title: "Reference guide"
-  url: 'http://domain.de/must-be-absolut-url-like-this-one/'
-  image: 'https://d35c7d8c.web.cern.ch/sites/d35c7d8c.web.cern.ch/files/styles/home_button/public/imageblock/PH-ROOT-icons-3.png'
+  url: 'https://root.cern/doc/master/index.html'
+  image: '/images/PH-ROOT-icons-3.png'
   text: ''
 widget3:
   title: "Forum"
-  url: 'http://domain.de/must-be-absolut-url-like-this-one/'
-  image: 'https://d35c7d8c.web.cern.ch/sites/d35c7d8c.web.cern.ch/files/styles/home_button/public/imageblock/PH-ROOT-icons-5.png'
+  url: 'https://root-forum.cern.ch/'
+  image: '/images/PH-ROOT-icons-5.png'
   text: ''
 widget4:
   title: "Gallery"
   url: 'http://domain.de/must-be-absolut-url-like-this-one/'
-  image: 'https://d35c7d8c.web.cern.ch/sites/d35c7d8c.web.cern.ch/files/styles/home_button/public/imageblock/PH-ROOT-icons-9.png'
+  image: '/images/PH-ROOT-icons-9.png'
   text: ''
 #
 # Use the call for action to show a button on the frontpage
