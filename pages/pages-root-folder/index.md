@@ -25,7 +25,7 @@ widget3:
   text: ''
 widget4:
   title: "Gallery"
-  url: 'http://domain.de/must-be-absolut-url-like-this-one/'
+  url: 'https://stwunsch.github.io/feeling-responsive/gallery'
   image: '/images/PH-ROOT-icons-9.png'
   text: ''
 #
