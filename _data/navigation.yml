@@ -9,23 +9,31 @@
   url: "#"
   side: left
   dropdown:
-  - title: "Dropdown Menu 1"
+  - title: "Conda"
     url: "#"
-  - title: "Dropdown Menu 2"
+  - title: "Debian/Ubuntu"
     url: "#"
-  - title: "Dropdown Menu 3"
+  - title: "Redhat/Fedora"
+    url: "#"
+  - title: "CVMFS"
+    url: "#"
+  - title: "Build from source"
     url: "#"
 
 - title: "Documentation"
   url: "#"
   side: left
   dropdown:
-  - title: "Dropdown Menu 1"
+  - title: "Getting started"
+    url: "/getting-started/"
+  - title: "Tutorials"
     url: "#"
-  - title: "Dropdown Menu 2"
+  - title: "Reference guide"
     url: "#"
-  - title: "Dropdown Menu 3"
-    url: "#"
+
+- title: "Forum"
+  url: "https://root-forum.cern.ch/"
+  side: left
 
 - title: "Contribute"
   url: "#"
@@ -37,6 +45,10 @@
     url: "#"
   - title: "Dropdown Menu 3"
     url: "#"
+
+- title: Gallery
+  url: "/gallery/"
+  side: left
 
 - title: Blog
   url: "/blog/"
